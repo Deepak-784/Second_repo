@@ -1,3 +1,4 @@
 feature branch create 
 feature 1 is added 
 feature 2 is added 
+remove second feature 
