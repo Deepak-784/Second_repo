@@ -1,4 +1,3 @@
-package gridlayoutdemo;
 
 import java.awt.*;
 

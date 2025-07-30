@@ -1,4 +1,3 @@
-package scoops2;
 
 class Product {
     private String itemNo;

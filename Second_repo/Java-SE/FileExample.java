@@ -1,4 +1,3 @@
-package fileexample;
 
 import java.io.*;
 

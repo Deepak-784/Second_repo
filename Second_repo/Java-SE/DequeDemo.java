@@ -1,4 +1,3 @@
-package dequedemo;
 
 import java.util.*;
 

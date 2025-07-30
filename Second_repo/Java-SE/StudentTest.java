@@ -1,5 +1,4 @@
 
-package studenttest;
 
 class Student {
     public int roll;

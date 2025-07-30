@@ -1,4 +1,3 @@
-package propertydemo;
 
 import java.util.*;
 import java.io.*;

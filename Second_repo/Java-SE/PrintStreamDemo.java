@@ -1,5 +1,4 @@
 
-package printstreamdemo;
 
 import java.io.*;
 

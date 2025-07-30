@@ -1,7 +1,4 @@
-
-package widenarrodemo;
-
-public class WideNArroDemo {
+public class WideNarroDemo {
     public static void main(String[] args) {
 
         byte b = 5;
@@ -20,7 +17,8 @@ public class WideNArroDemo {
         System.out.println(i);
         f = c;
         d = c;
-        s = c;
+        // s = c;
+        s = (short) c;
         i = c;
 
     }

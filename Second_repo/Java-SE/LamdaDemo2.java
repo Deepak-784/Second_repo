@@ -1,4 +1,3 @@
-package lamdademo2;
 
 interface MyLambda {
     public void display();

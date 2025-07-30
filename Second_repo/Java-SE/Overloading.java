@@ -1,5 +1,4 @@
 
-package overloading;
 
 class Test {
     public int max(int a, int b) {

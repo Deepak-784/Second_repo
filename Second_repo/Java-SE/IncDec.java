@@ -1,4 +1,3 @@
-package incdec;
 
 public class IncDec {
 

@@ -1,4 +1,3 @@
-package enumdemo;
 
 enum Dept {
     CS("John", "Block A"), IT("Smith", "Block B"), CIVIL("Srinivas", "Block C"), ECE("Dave", "Block D");

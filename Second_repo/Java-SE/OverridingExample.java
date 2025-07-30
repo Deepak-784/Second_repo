@@ -1,4 +1,3 @@
-package overridingexample;
 
 class Car {
     public void start() {

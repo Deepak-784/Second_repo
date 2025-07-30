@@ -1,4 +1,3 @@
-package scexception1;
 
 class StackOverFlow extends Exception {
     public String toString() {

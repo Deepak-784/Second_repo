@@ -1,4 +1,3 @@
-package wayofeventhandling;
 
 import java.awt.*;
 import java.awt.event.*;

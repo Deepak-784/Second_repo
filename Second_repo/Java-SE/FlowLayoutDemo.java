@@ -1,5 +1,3 @@
-package flowlayoutdemo;
-
 import java.awt.*;
 import java.awt.event.*;
 
@@ -61,7 +59,7 @@ class MyFrame extends Frame implements ItemListener {
         add(mainp, BorderLayout.CENTER);
     }
 
-    @Override
+    // @Override
     public void itemStateChanged(ItemEvent e) {
         if (c.getState())
             cl.first(mainp);

@@ -1,4 +1,3 @@
-package mysum;
 
 public class MySum {
 

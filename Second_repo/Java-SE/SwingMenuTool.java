@@ -1,4 +1,3 @@
-package swingmenutool;
 
 import java.awt.*;
 import java.awt.event.*;

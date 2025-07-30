@@ -1,4 +1,3 @@
-package scloops;
 
 class Subject {
     private String subID;

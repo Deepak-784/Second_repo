@@ -1,7 +1,3 @@
-
-package expression2;
-
-import java.lang.*;
 import java.util.*;
 
 public class Expression2 {
@@ -21,7 +17,7 @@ public class Expression2 {
         volume = length * breadth * height;
 
         System.out.println("Total Area " + totalArea);
-        System.out.prinlt("Volume " + volume);
+        System.out.println("Volume " + volume);
 
     }
 

@@ -1,4 +1,3 @@
-package methodpractice;
 
 public class MethodPractice {
 

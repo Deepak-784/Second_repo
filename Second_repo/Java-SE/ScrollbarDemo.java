@@ -1,4 +1,3 @@
-package scrollbardemo;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -31,7 +30,7 @@ class MyFrame extends Frame implements AdjustmentListener {
         green.addAdjustmentListener(this);
     }
 
-    @Override
+    // @Override
     public void adjustmentValueChanged(AdjustmentEvent e) {
         tf.setBackground(new Color(red.getValue(), blue.getValue(), green.getValue()));
 

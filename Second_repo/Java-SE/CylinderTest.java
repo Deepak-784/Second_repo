@@ -1,4 +1,3 @@
-package cylindertest;
 
 class Cylinder {
     private int radius;

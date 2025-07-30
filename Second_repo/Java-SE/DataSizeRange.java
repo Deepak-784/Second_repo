@@ -1,4 +1,3 @@
-package datasizerange;
 
 public class DataSizeRange {
 

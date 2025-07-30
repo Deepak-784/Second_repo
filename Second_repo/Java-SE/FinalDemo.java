@@ -1,4 +1,3 @@
-package finaldemo;
 
 class Test {
     public final void show() {

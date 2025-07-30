@@ -1,5 +1,4 @@
 
-package stringbufferbuilder;
 
 public class StringBufferBuilder {
     public static void main(String[] args) {

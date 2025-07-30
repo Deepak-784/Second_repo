@@ -1,4 +1,3 @@
-package mymenu;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -37,7 +36,7 @@ public class MyMenu extends Frame implements ActionListener {
 
     }
 
-    @Override
+    // @Override
     public void actionPerformed(ActionEvent ae) {
         String option = ae.getActionCommand();
 

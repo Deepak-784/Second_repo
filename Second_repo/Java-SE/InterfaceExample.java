@@ -1,5 +1,4 @@
 
-package interfaceexample;
 
 class Phone {
     public void call() {

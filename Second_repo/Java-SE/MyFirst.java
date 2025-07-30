@@ -1,4 +1,3 @@
-package myfirst;
 
 public class MyFirst {
 

@@ -1,5 +1,4 @@
 
-package nestedinner;
 
 class Outer {
     static int x = 10;

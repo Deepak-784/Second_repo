@@ -1,4 +1,3 @@
-package looppractice;
 
 public class LoopPractice {
 

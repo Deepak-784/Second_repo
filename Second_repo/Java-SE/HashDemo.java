@@ -1,4 +1,3 @@
-package hashdemo;
 
 import java.util.*;
 

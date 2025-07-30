@@ -1,6 +1,4 @@
 
-package overriding;
-
 class TV {
     public void switchON() {
         System.out.println("TV is Switched ON");
@@ -13,12 +11,12 @@ class TV {
 }
 
 class SmartTV extends TV {
-    @Override
+    // @Override
     public void switchON() {
         System.out.println("Smart TV is Switched ON");
     }
 
-    @Override
+    // @Override
     public void changeChannel() {
         System.out.println("SmartTV Channel is Changed ");
     }

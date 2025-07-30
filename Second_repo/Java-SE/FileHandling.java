@@ -1,4 +1,3 @@
-package filehandling;
 
 import java.io.*;
 

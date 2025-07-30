@@ -1,5 +1,4 @@
 
-package interfacepractice;
 
 interface Test {
     final static int X = 10;

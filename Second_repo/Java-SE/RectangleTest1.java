@@ -1,4 +1,3 @@
-package rectangletest1;
 
 class Rectangle {
     private double length;

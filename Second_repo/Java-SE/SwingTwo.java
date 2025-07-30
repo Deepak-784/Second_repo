@@ -1,5 +1,4 @@
 
-package swingtwo;
 
 import javax.swing.*;
 import java.awt.*;

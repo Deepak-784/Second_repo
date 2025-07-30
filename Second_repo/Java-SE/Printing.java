@@ -1,4 +1,3 @@
-package printing;
 
 import java.util.*;
 

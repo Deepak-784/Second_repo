@@ -1,4 +1,3 @@
-package overriderules;
 
 class Super {
     private void display()// or even protected may not give any error.

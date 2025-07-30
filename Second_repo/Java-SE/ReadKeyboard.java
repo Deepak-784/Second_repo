@@ -1,4 +1,3 @@
-package readkeyboard;
 
 import java.util.*;
 

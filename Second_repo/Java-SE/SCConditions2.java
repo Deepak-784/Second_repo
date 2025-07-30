@@ -1,4 +1,3 @@
-package scconditions2;
 
 import java.util.*;
 

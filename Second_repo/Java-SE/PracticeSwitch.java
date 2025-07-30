@@ -1,5 +1,4 @@
 
-package practiceswitch;
 
 public class PracticeSwitch {
 

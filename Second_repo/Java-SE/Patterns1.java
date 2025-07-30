@@ -1,5 +1,4 @@
 
-package patterns1;
 
 public class Patterns1 {
 

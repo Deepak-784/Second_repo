@@ -1,4 +1,3 @@
-package variablenames;
 
 public class VariableNames {
 

@@ -1,4 +1,3 @@
-package textareademo;
 
 import java.awt.*;
 import java.awt.event.*;

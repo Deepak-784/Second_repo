@@ -1,4 +1,3 @@
-package swingcombo;
 
 import javax.swing.*;
 import java.awt.*;

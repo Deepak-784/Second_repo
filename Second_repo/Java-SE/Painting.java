@@ -1,4 +1,3 @@
-package painting;
 
 import java.awt.*;
 import java.awt.event.*;

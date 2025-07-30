@@ -1,5 +1,4 @@
 
-package linkedhashmapdemo;
 
 import java.util.*;
 

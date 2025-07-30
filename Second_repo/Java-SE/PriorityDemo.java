@@ -1,4 +1,3 @@
-package prioritydemo;
 
 import java.util.*;
 

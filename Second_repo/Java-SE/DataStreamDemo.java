@@ -1,4 +1,3 @@
-package datastreamdemo;
 
 import java.io.*;
 

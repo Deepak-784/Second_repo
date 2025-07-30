@@ -1,4 +1,3 @@
-package thissuper;
 
 class Rectangle {
     int length;

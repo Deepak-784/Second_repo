@@ -1,4 +1,3 @@
-package scconditions;
 
 import java.util.Scanner;
 

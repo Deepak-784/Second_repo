@@ -1,4 +1,3 @@
-package threadtest1;
 
 /*class MyRun implements Runnable
 {

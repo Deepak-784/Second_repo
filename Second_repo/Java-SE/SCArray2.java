@@ -1,4 +1,3 @@
-package scarray2;
 
 public class SCArray2 {
 

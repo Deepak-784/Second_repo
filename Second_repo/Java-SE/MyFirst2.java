@@ -1,5 +1,4 @@
 
-package myfirst2;
 
 import java.awt.*;
 

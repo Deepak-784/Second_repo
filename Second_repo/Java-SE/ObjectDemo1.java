@@ -1,4 +1,3 @@
-package objectdemo;
 
 import java.io.*;
 
@@ -35,7 +34,7 @@ class Student implements Serializable {
 
 }
 
-public class ObjectDemo {
+public class ObjectDemo1 {
     /*
      * public static void main(String[] args) throws Exception
      * {

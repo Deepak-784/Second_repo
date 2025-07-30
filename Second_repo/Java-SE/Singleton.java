@@ -1,5 +1,4 @@
 
-package singleton;
 
 class CoffeeMachine {
     private float coffeQty;

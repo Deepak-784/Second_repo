@@ -1,4 +1,3 @@
-package scarray1;
 
 import java.util.*;
 

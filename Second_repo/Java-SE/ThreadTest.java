@@ -1,4 +1,3 @@
-package threadtest;
 
 /*class MyThread extends Thread
 {

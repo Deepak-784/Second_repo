@@ -1,4 +1,3 @@
-package scswitch1;
 
 import java.util.*;
 

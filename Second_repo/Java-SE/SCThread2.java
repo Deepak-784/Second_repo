@@ -1,4 +1,3 @@
-package scthread2;
 
 class WhiteBoard {
     String text;

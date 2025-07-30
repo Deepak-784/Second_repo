@@ -1,5 +1,4 @@
 
-package internaldemo;
 
 import javax.swing.*;
 import java.awt.event.*;
@@ -47,7 +46,7 @@ class MyFrame extends JFrame implements ActionListener {
         m1.addActionListener(this);
     }
 
-    @Override
+    // @Override
     public void actionPerformed(ActionEvent e) {
         MyInternalFrame mi = new MyInternalFrame();
         dp.add(mi);

@@ -1,4 +1,3 @@
-package localinner;
 
 class Outer {
     int x = 10;

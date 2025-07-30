@@ -1,4 +1,3 @@
-package scloop3;
 
 import java.util.*;
 

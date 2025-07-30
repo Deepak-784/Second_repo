@@ -1,4 +1,3 @@
-package objectdemo;
 
 import java.io.*;
 

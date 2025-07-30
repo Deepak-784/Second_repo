@@ -1,4 +1,3 @@
-package printing2;
 
 public class Printing2 {
 

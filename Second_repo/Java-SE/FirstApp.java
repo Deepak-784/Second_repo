@@ -1,4 +1,3 @@
-package firstapp;
 
 import java.awt.*;
 

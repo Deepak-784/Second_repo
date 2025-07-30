@@ -1,4 +1,3 @@
-package mypack1;
 
 class Demo1 {
     int a = 10;

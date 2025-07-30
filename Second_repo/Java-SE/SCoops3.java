@@ -1,4 +1,3 @@
-package scoops3;
 
 class Subject {
     private String subID;

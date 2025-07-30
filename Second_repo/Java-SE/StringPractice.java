@@ -1,4 +1,3 @@
-package stringpractice;
 
 public class StringPractice {
 

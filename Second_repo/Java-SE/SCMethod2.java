@@ -1,4 +1,3 @@
-package scmethod2;
 
 public class SCMethod2 {
 

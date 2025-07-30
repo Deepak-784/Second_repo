@@ -1,5 +1,4 @@
 
-package swingtextfield;
 
 import java.awt.*;
 import java.text.*;

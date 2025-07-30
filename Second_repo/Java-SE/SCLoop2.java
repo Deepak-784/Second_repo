@@ -1,5 +1,4 @@
 
-package scloop2;
 
 import java.lang.*;
 import java.util.*;

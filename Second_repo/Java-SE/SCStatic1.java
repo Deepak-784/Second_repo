@@ -1,4 +1,3 @@
-package scstatic1;
 
 import java.util.Date;
 

@@ -1,4 +1,3 @@
-package scarray3;
 
 public class SCArray3 {
     public static void main(String[] args) {

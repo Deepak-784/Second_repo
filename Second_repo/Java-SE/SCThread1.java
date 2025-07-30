@@ -1,4 +1,3 @@
-package scthread1;
 
 class ATM {
 

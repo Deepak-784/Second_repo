@@ -1,4 +1,3 @@
-package scmethod3;
 
 public class SCMethod3 {
     static int max(int... A) {

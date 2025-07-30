@@ -1,4 +1,3 @@
-package literals;
 
 public class Literals {
 

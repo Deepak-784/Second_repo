@@ -1,5 +1,4 @@
 
-package urldemo;
 
 import java.io.*;
 import java.net.*;

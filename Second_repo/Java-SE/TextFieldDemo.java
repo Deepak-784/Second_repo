@@ -1,4 +1,3 @@
-package textfielddemo;
 
 import java.awt.*;
 import java.awt.event.*;

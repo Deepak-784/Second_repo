@@ -1,4 +1,3 @@
-package datatypedetails;
 
 import java.awt.*;
 import javax.swing.*;

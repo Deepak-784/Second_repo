@@ -1,4 +1,3 @@
-package swingtree;
 
 import javax.swing.*;
 import javax.swing.event.*;
@@ -39,7 +38,7 @@ class MyFrame extends JFrame implements TreeSelectionListener {
 
     }
 
-    @Override
+    // @Override
     public void valueChanged(TreeSelectionEvent e) {
         label.setText(e.getPath().toString());
     }

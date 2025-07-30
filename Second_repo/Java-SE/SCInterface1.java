@@ -1,4 +1,3 @@
-package scinterface1;
 
 interface Member {
     public void callback();

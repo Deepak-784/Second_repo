@@ -1,6 +1,3 @@
-
-package swingslider;
-
 import javax.swing.*;
 import javax.swing.event.*;
 import java.awt.*;
@@ -40,7 +37,7 @@ class MyFrame extends JFrame implements ChangeListener {
         sl.addChangeListener(this);
     }
 
-    @Override
+    // @Override
     public void stateChanged(ChangeEvent e) {
         w = sl.getValue();
         p1.repaint();

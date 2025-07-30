@@ -1,4 +1,3 @@
-package superconst;
 
 class Rectangle {
     int length;

@@ -1,4 +1,3 @@
-package swingsplit;
 
 import java.awt.Color;
 import javax.swing.*;
@@ -34,7 +33,7 @@ class MyFrame extends JFrame implements ListSelectionListener {
 
     }
 
-    @Override
+    // @Override
     public void valueChanged(ListSelectionEvent e) {
         String str = (String) list.getSelectedValue();
 

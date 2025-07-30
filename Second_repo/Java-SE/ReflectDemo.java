@@ -1,4 +1,3 @@
-package reflectdemo;
 
 import java.lang.reflect.*;
 

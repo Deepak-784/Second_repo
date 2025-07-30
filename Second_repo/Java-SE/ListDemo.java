@@ -1,4 +1,3 @@
-package listdemo;
 
 import java.util.*;
 

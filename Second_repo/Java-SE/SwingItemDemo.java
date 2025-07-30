@@ -1,5 +1,4 @@
 
-package swingitemdemo;
 
 import javax.swing.*;
 import java.awt.*;

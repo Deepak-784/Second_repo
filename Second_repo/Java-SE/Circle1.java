@@ -1,5 +1,4 @@
 
-package circle1;
 
 class Circle {
     public double radius;

@@ -1,5 +1,4 @@
 
-package comparatordemo;
 
 import java.util.*;
 

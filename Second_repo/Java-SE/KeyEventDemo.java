@@ -1,4 +1,3 @@
-package keyeventdemo;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -29,13 +28,13 @@ class MyFrame extends Frame implements KeyListener {
         addKeyListener(this);
     }
 
-    @Override
+    // @Override
     public void keyPressed(KeyEvent e) {
         l1.setText("keypressed");
         l2.setText("");
     }
 
-    @Override
+    // @Override
     public void keyReleased(KeyEvent e) {
         l2.setText("keyreleased");
         l1.setText("");
@@ -43,7 +42,7 @@ class MyFrame extends Frame implements KeyListener {
         l4.setText("");
     }
 
-    @Override
+    // @Override
     public void keyTyped(KeyEvent e) {
         l3.setText("key Typed");
         l4.setText(new Date(e.getWhen()) + "");

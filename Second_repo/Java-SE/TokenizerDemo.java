@@ -1,4 +1,3 @@
-package tokenizerdemo;
 
 import java.util.*;
 import java.io.*;

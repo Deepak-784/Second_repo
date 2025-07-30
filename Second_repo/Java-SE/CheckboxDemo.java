@@ -1,5 +1,3 @@
-package checkboxdemo;
-
 import java.awt.*;
 import java.awt.event.*;
 
@@ -32,7 +30,7 @@ class MyFrame extends Frame implements ItemListener {
 
     }
 
-    @Override
+    // @Override
     public void itemStateChanged(ItemEvent e) {
         String str = "";
 

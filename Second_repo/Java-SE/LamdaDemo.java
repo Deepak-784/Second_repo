@@ -1,4 +1,3 @@
-package lamdademo;
 
 @FunctionalInterface
 interface MyLambda {

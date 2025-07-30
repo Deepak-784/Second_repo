@@ -1,4 +1,3 @@
-package recursion;
 
 public class Recursion {
     static void fun(int n) {

@@ -1,4 +1,3 @@
-package listboxdemo;
 
 import java.awt.*;
 import java.awt.event.*;

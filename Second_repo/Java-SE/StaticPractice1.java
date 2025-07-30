@@ -1,4 +1,3 @@
-package staticpractice1;
 
 class Test {
     static {

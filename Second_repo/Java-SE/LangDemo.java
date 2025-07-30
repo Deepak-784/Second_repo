@@ -1,7 +1,3 @@
-package langdemo;
-
-import java.lang.*;
-
 class MyObject {
     public String toString() {
         return "My Object";
@@ -15,8 +11,9 @@ class MyObject {
         return this.hashCode() == o.hashCode();
     }
 
-    public void notify() {
-
+    // Renamed to avoid conflict with Object.notify()
+    public void myNotify() {
+        // Custom method logic if needed
     }
 }
 

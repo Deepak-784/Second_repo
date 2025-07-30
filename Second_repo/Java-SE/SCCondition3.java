@@ -1,5 +1,4 @@
 
-package sccondition3;
 
 import java.util.*;
 

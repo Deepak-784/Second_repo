@@ -1,4 +1,3 @@
-package sccollection1;
 
 import java.io.*;
 import java.util.*;

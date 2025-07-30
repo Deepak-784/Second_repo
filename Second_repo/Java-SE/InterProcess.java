@@ -1,4 +1,3 @@
-package interprocess;
 
 class MyData {
     int value;

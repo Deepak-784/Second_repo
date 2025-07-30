@@ -1,5 +1,4 @@
 
-package checkedunchecked;
 
 class LowBalanceException extends Exception {
     public String toString() {

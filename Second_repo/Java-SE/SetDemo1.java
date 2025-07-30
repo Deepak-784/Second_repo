@@ -1,4 +1,3 @@
-package setdemo1;
 
 import java.util.*;
 

@@ -1,4 +1,3 @@
-package exceptiondemo;
 
 import java.util.Scanner;
 

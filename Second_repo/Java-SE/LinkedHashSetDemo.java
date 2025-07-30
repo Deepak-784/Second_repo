@@ -1,4 +1,3 @@
-package linkedhashsetdemo;
 
 import java.util.*;
 

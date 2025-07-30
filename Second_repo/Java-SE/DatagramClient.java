@@ -1,5 +1,4 @@
 
-package datagramclient;
 
 import java.net.*;
 

@@ -1,4 +1,3 @@
-package inheritconst;
 
 class Parent {
     public Parent() {

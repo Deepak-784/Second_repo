@@ -1,4 +1,3 @@
-package randomaccessdemo;
 
 import java.io.*;
 

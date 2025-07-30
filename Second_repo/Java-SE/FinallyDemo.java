@@ -1,4 +1,3 @@
-package finallydemo;
 
 public class FinallyDemo {
     static void meth1() throws Exception {

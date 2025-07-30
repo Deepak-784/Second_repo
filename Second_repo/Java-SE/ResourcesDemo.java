@@ -1,5 +1,4 @@
 
-package resourcesdemo;
 
 import java.io.*;
 import java.util.*;

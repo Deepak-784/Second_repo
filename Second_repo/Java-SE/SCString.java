@@ -1,4 +1,3 @@
-package scstring;
 
 public class SCString {
     // Cheking if a string is Binary number

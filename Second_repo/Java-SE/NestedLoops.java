@@ -1,4 +1,3 @@
-package nestedloops;
 
 public class NestedLoops {
 

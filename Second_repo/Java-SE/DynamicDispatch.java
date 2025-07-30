@@ -1,5 +1,4 @@
 
-package dynamicdispatch;
 
 class Super {
     public void meth1() {
@@ -12,7 +11,7 @@ class Super {
 }
 
 class Sub extends Super {
-    @Override
+    // @Override
     public void meth2() {
         System.err.println("Sub Meth2");
     }

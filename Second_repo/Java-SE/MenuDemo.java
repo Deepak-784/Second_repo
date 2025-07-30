@@ -1,4 +1,3 @@
-package menudemo;
 
 import java.awt.*;
 import java.awt.event.*;

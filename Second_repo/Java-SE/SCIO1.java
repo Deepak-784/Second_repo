@@ -1,4 +1,3 @@
-package scio1;
 
 import java.io.*;
 
