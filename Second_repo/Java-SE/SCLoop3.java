@@ -59,6 +59,6 @@ public class SCLoop3 {
 
                 }
 
+                scan.close();
         }
-
 }

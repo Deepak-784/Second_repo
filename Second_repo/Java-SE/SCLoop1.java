@@ -15,7 +15,7 @@ public class SCLoop1 {
         }
 
         System.out.println("Factorial is " + fact);
-
+        sc.close();
     }
 
     /*

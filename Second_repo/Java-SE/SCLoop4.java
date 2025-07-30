@@ -19,7 +19,7 @@ public class SCLoop4 {
             a = b;
             b = c;
         }
-
+        sc.close();
     }
 
     /*

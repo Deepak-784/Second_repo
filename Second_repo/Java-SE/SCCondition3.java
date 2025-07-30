@@ -25,7 +25,7 @@ public class SCCondition3 {
             System.out.println("Organisation");
         else if (ext.equals("net"))
             System.out.println("Network");
-
+        scan.close();
     }
 
     /*

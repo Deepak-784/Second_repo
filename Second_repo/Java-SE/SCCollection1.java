@@ -108,5 +108,6 @@ public class SCCollection1 {
         oos.close();
 
         fos.close();
+        sc.close();
     }
 }

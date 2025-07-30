@@ -1,6 +1,3 @@
-
-
-import java.lang.*;
 import java.util.*;
 
 public class SCLoop2 {
@@ -69,6 +66,7 @@ public class SCLoop2 {
         else
             System.out.println("Its not an Armsttrong Number");
 
+        scan.close();
     }
 
 }

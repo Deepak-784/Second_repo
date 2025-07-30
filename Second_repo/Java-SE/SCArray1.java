@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 public class SCArray1 {
 
     public static void main(String[] args) {

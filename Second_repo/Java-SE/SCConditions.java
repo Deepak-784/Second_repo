@@ -27,6 +27,7 @@ public class SCConditions {
         } else {
             System.out.println("Grade E");
         }
+        sc.close();
     }
 
     // Check if a person is young

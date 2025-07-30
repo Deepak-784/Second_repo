@@ -25,7 +25,7 @@ public class SCConditions2 {
         } else {
             System.out.println("Not a Leap Year");
         }
-
+        scan.close();
     }
 
     /*
