@@ -2,12 +2,10 @@ package linkedhashsetdemo;
 
 import java.util.*;
 
-public class LinkedHashSetDemo 
-{
-    public static void main(String[] args) 
-    {
-        HashSet<String> lhs=new HashSet<>(10);
-        
+public class LinkedHashSetDemo {
+    public static void main(String[] args) {
+        HashSet<String> lhs = new HashSet<>(10);
+
         lhs.add("A");
         lhs.add("C");
         lhs.add("E");
@@ -15,15 +13,14 @@ public class LinkedHashSetDemo
         lhs.add("B");
         lhs.add("G");
         lhs.add("B");
-        
-        Iterator<String> itr=lhs.iterator();
-        
-        while(itr.hasNext())
-        {
+
+        Iterator<String> itr = lhs.iterator();
+
+        while (itr.hasNext()) {
             System.out.println(itr.next());
         }
-        
-        Hashtable ht=new Hashtable(10);
-        
-    }   
+
+        Hashtable ht = new Hashtable(10);
+
+    }
 }
